@@ -1,4 +1,5 @@
-Telecom 5G Posts
+**Telecom 5G Posts**
+
 Telecom 5G,Ai driven network , AL ML in telco Posts
 Detailed-rca-workflows-for-major-4g-5g-network-issues
 
